@@ -4,6 +4,8 @@ A robust and secure RESTful API built with **Node.js**, **Express.js**, and **Mo
 
 API Link: https://subscription-tracker-api-pmuk.onrender.com
 
+or better run in http://localhost:5500/ after cloning the repo.
+
 ---
 
 ## 🚀 Features
